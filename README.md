@@ -12,7 +12,6 @@ _Infrastructure engineer based in Paris, France_ <br>
 :fr: **French**: Native <br>
 :uk: **English**: TOEIC score 985, practice everyday <br>
 :de: **German**: B1
-:work
 <br><br>
 
 ## :man_student: Education
