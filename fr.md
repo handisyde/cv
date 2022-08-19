@@ -1,6 +1,3 @@
----
-title: CV de Paul Mercier-Handisyde
----
 # Paul Mercier-Handisyde
 
 _Architecte SI basé à Paris_ <br>
