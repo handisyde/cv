@@ -17,3 +17,5 @@ _Infrastructure engineer based in Paris, France_ <br>
 <br><br>
 
 ## 👨‍🎓 Education
+
+<br><br>
