@@ -7,7 +7,7 @@ _Architecte SI basé à Paris_ <br>
 [Email](mailto:hello@handisyde.com) / [LinkedIn](https://www.linkedin.com/in/handisyde/)
 <br><br>
 
-## 👨‍💻 Experience en ingénierie informatique
+## 👨‍💻 Expériences en ingénierie informatique
 
 <br><br>
 
