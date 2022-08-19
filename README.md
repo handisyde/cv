@@ -7,6 +7,8 @@ _Infrastructure engineer based in Paris, France_ <br>
 
 ## :man_technologist: Engineering Experience
 
+<br><br>
+
 ## :speech_balloon: Languages
 
 :fr: **French**: Native <br>
