@@ -5,13 +5,14 @@ _Infrastructure engineer based in Paris, France_ <br>
 [Email](mailto:hello@handisyde.com) / [LinkedIn](https://www.linkedin.com/in/handisyde/)
 <br><br>
 
-## 👩🏼‍💻 Engineering Experience
+## :man_technologist: Engineering Experience
 
-## 💬 Languages
+## :speech_balloon: Languages
 
-🇫🇷 **French**: Native <br>
-🇬🇧 **English**: TOEIC score 985, practice everyday <br>
-🇩🇪 **German**: B1
+:fr: **French**: Native <br>
+:uk: **English**: TOEIC score 985, practice everyday <br>
+:de: **German**: B1
+:work
 <br><br>
 
-## 👩🏼‍🎓 Education
+## :man_student: Education
