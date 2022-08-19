@@ -1,7 +1,8 @@
 # Paul Mercier-Handisyde
-[🇫🇷 French version](./fr.html)
 
 _Infrastructure engineer based in Paris, France_ <br>
+
+[🇫🇷 French version](./fr.html) <br>
 
 [Email](mailto:hello@handisyde.com) / [LinkedIn](https://www.linkedin.com/in/handisyde/)
 <br><br>
