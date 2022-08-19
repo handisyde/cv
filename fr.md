@@ -7,11 +7,11 @@ _Architecte SI basé à Paris_ <br>
 [Email](mailto:hello@handisyde.com) / [LinkedIn](https://www.linkedin.com/in/handisyde/)
 <br><br>
 
-## 👨‍💻 Engineering Experience
+## 👨‍💻 Experience en ingénierie informatique
 
 <br><br>
 
-## 💬 Languages
+## 💬 Langues
 
 🇫🇷 **Français**: Langue maternelle <br>
 🇬🇧 **English**: score TOEIC 985, pratique quotidienne <br>
