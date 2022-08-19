@@ -1,4 +1,5 @@
 # Paul Mercier-Handisyde
+[🇫🇷 French version](./fr.html).
 
 _Infrastructure engineer based in Paris, France_ <br>
 
