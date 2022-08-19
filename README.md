@@ -9,7 +9,7 @@ _Infrastructure engineer based in Paris, France_ <br>
 
 <br><br>
 
-## :speech_balloon: Languages
+## 💬 Languages
 
 🇫🇷 **French**: Native <br>
 🇬🇧 **English**: TOEIC score 985, practice everyday <br>
