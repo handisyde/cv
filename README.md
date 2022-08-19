@@ -2,7 +2,7 @@
 
 _Infrastructure engineer based in Paris, France_ <br>
 
-[🇫🇷 French version](https://cv.handisyde.com/fr) <br>
+[🇫🇷 Version française](https://cv.handisyde.com/fr) <br>
 
 [Email](mailto:hello@handisyde.com) / [LinkedIn](https://www.linkedin.com/in/handisyde/)
 <br><br>
