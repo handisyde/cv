@@ -13,8 +13,8 @@ _Architecte SI basé à Paris_ <br>
 
 ## 💬 Languages
 
-🇫🇷 **French**: Native <br>
-🇬🇧 **English**: TOEIC score 985, practice everyday <br>
+🇫🇷 **Français**: Langue maternelle <br>
+🇬🇧 **English**: score TOEIC 985, pratique quotidienne <br>
 🇩🇪 **German**: B1
 <br><br>
 
