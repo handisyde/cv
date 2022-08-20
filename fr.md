@@ -20,7 +20,7 @@ _Architecte Systèmes d'Information basé à Paris_ <br>
 
 ## 👨‍🎓 Education
 
-**Expert Architecte de Systèmes d'Information**<br>
+**Expert en Ingénierie des Systèmes d’Information**<br>
 Diplôme inscrit au RNCP niveau 7 Master<br>
 [Intech, groupe ESIEA](https://www.intechinfo.fr/) - Ivry-sur-Seine _(2017 - 2022)_ <br>
 
