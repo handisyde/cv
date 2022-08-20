@@ -34,14 +34,6 @@ Mise en place d'un SI open-source pour l'association Air ESIEA.
    * **_Technologies utilisées :_** ArchLinux, Apache, Nginx, BIND9, GitLab, Postfix/Dovecot, SMB, NextCloud, BorgBackup, MariaDB, Python, Bash.
    <br><br>
 
-## 👨‍🔧 Jobs étudiants
-
-* Employé Agricole @ EARL d'en Barrot
-* Employé Commercial @ [Intermarché](https://www.intermarche.com), @ [Monop'](https://www.monoprix.fr)
-* Équipier en restauration @ [McDonald's](https://www.mcdonalds.fr)
-* Employé administratif @ [Total](https://www.totalenergies.fr)
-<br><br>
-
 ## 💬 Langues
 
 🇫🇷 **Français**: Langue maternelle <br>
@@ -67,3 +59,11 @@ Classe préparatoire aux grandes écoles Lettres et Sciences Sociales<br>
 Spécialité Mathématiques - Mention Européenne Anglais - Mention Bien<br>
 [Lycée Las Cases](https://las-cases.mon-ent-occitanie.fr/) - Lavaur _(2012)_
 <br><br>
+
+## 👨‍🔧 Jobs étudiants
+
+* Employé Agricole @ EARL d'en Barrot
+* Employé Commercial @ [Intermarché](https://www.intermarche.com), @ [Monop'](https://www.monoprix.fr)
+* Équipier en restauration @ [McDonald's](https://www.mcdonalds.fr)
+* Employé administratif @ [Total](https://www.totalenergies.fr)
+  <br><br>
