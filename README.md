@@ -27,8 +27,8 @@ _The following projects were executed within the scope of my studies 👨‍🎓
 
 **MalAware** @ [intech](https://www.intechinfo.fr/) &mdash; team of 5 &mdash; _(Sep 2019 - Feb 2020)_<br>
 Cybersecurity training through CTF scenarios.
-   * Implementation and use of [Airbus CyberRange](https://airbus-cyber-security.com/products-and-services/prevent/cyberrange/) stack
-   * Awareness campaign  (individuals and buisnesses) to cybersecurity risks
+   * [Airbus CyberRange](https://airbus-cyber-security.com/products-and-services/prevent/cyberrange/) stack implementation and use 
+   * Cybersecurity risks awareness campaign (towards both individuals and buisnesses)
    * SOC (Security Operations Center) implementation and crisis management
    * **_Technologies used:_** Airbus CyberRange, Python, Ethical Hacking.
    <br><br>
@@ -36,7 +36,7 @@ Cybersecurity training through CTF scenarios.
 **Kora La** @ [intech](https://www.intechinfo.fr/) &mdash; project lead, team of 3 &mdash; _(Mar 2019 - Jul 2019)_<br>
 Conception and implementation of the infrastructure and lower logical layers of the new Intech server stack.
    * Conception of an IT system
-   * Implementation of a redundant and higly available architecture
+   * Redundant and higly available architecture implementation
    * Secure private cloud deployement
    * **_Technologies used:_** HPE3PAR, ESXi, vCenter, VIC, network switches and routers (Cisco/HP).
    <br><br>
