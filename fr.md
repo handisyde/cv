@@ -9,7 +9,16 @@ _Architecte Systèmes d'Information basé à Paris_ <br>
 
 ## 👨‍💻 Expérience en ingénierie informatique
 
+**Architecte SI | Ingénieur d'Infrastructure** @ [Cosium](https://www.cosium.com/) _(Fev 2020 - Present)_ <br>
+.
+  * .
+  * .
+  * .
+  * **_Technologies utilisées :_** .
+  <br><br>
+
 _Les projets suivants ont été réalisés dans le cadre de mes études 👨‍🎓 ._
+<br><br>
 
 **MalAware** @ [intech](https://www.intechinfo.fr/) &mdash; équipe de 5 &mdash; _(Sep 2019 - Fev 2020)_<br>
 Entrainement à la cybersécurité par des scénarios de type CTF.

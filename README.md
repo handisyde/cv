@@ -9,7 +9,17 @@ _IT systems architect based in Paris, France_ <br>
 
 ## 👨‍💻 Engineering Experience
 
+
+**IT Systems Architect | Infrastructure Engineer** @ [Cosium](https://www.cosium.com/cosium-software/) _(Feb 2020 - Present)_ <br>
+.
+  * .
+  * .
+  * .
+  * **_Technologies used:_** .
+  <br><br>
+
 _The following projects were executed within the scope of my studies 👨‍🎓 ._
+<br><br>
 
 **MalAware** @ [intech](https://www.intechinfo.fr/) &mdash; team of 5 &mdash; _(Sep 2019 - Feb 2020)_<br>
 Cybersecurity training through CTF scenarios.
