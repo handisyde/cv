@@ -18,7 +18,7 @@ _Architecte Systèmes d'Information basé à Paris_ <br>
 🇩🇪 **German**: B1
 <br><br>
 
-## 👨‍🎓 Education
+## 👨‍🎓 Formation
 
 **Expert en Ingénierie des Systèmes d’Information**<br>
 Diplôme inscrit au RNCP niveau 7<br>
