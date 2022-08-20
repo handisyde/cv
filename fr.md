@@ -9,8 +9,8 @@ _Architecte Systèmes d'Information basé à Paris_ <br>
 
 ## 👨‍💻 Expérience en ingénierie informatique
 
-**Ingénieur d'Infrastructure** @ [Cosium](https://www.cosium.com/) &mdash; _(Depuis Fev 2020)_ <br>
-Stage puis alternance.
+**Ingénieur d'Infrastructure** @ [Cosium](https://www.cosium.com/) &mdash; stage puis alternance &mdash; _(Depuis Fev 2020)_ <br>
+.
   * .
   * .
   * .
