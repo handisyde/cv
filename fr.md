@@ -37,7 +37,7 @@ Mise en place d'un SI open-source pour l'association Air ESIEA.
 ## 💬 Langues
 
 🇫🇷 **Français**: Langue maternelle <br>
-🇬🇧 **English**: score TOEIC 985, pratique quotidienne <br>
+🇬🇧 **English**: C2 &mdash; score TOEIC 985 &mdash; pratique quotidienne <br>
 🇩🇪 **German**: B1
 <br><br>
 
