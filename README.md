@@ -56,7 +56,7 @@ Preparatory classes for social sciences and literary studies<br>
 [Saint-Sernin High School](https://saint-sernin.mon-ent-occitanie.fr/classes-preparatoires-bl-lss/presentation-de-la-filere-bl/) &mdash; Toulouse, France _(2012 - 2013)_
 
 **High-School Diploma / French A-levels**<br>
-Mathematics Speciality &mdash; English Section<br>
+Mathematics Speciality, English Section<br>
 [Las Cases High School](https://las-cases.mon-ent-occitanie.fr/) &mdash; Lavaur, France _(2012)_
 <br><br>
 

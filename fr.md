@@ -56,7 +56,7 @@ Classe préparatoire aux grandes écoles Lettres et Sciences Sociales<br>
 [Lycée Saint-Sernin](https://saint-sernin.mon-ent-occitanie.fr/classes-preparatoires-bl-lss/presentation-de-la-filere-bl/) &mdash; Toulouse _(2012 - 2013)_
 
 **Baccalauréat Scientifique**<br>
-Spécialité Mathématiques - Mention Européenne Anglais - Mention Bien<br>
+Spécialité Mathématiques, Mention Européenne Anglais, Mention Bien<br>
 [Lycée Las Cases](https://las-cases.mon-ent-occitanie.fr/) &mdash; Lavaur _(2012)_
 <br><br>
 
