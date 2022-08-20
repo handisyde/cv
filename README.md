@@ -1,6 +1,6 @@
 # Paul Mercier-Handisyde
 
-_IT systems architect based in Paris, France_ <br>
+_IT Systems Architect based in Paris, France_ <br>
 
 [🇫🇷 Version française](https://cv.handisyde.com/fr) <br>
 
@@ -10,7 +10,7 @@ _IT systems architect based in Paris, France_ <br>
 ## 👨‍💻 Engineering Experience
 
 
-**IT Systems Architect** @ [Cosium](https://www.cosium.com/cosium-software/) &mdash; intern, apprentice &mdash; _(Since Feb 2020)_ <br>
+**IT Systems Architect** @ [Cosium](https://www.cosium.com/cosium-software/) &mdash; intern then apprentice &mdash; _(Since Feb 2020)_ <br>
 .
   * .
   * .
