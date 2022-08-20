@@ -29,7 +29,7 @@ _Les projets suivants ont été réalisés dans le cadre de mes études 👨‍�
 Entrainement à la cybersécurité par des scénarios de type CTF.
    * Mise en place et utilisation de la stack [Airbus CyberRange](https://airbus-cyber-security.com/fr/produits-services/prevenir/cyberrange/)
    * Sensibilisation (particuliers et entreprises) aux risques cyber
-   * Déploiement d'un SOC (Security Operations Center)et gestion de crise
+   * Déploiement d'un SOC (Security Operations Center) et gestion de crise
    * **_Technologies utilisées :_** Airbus CyberRange, Python, Ethical Hacking.
    <br><br>
 
