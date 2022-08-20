@@ -10,14 +10,14 @@ _Architecte Systèmes d'Information basé à Paris_ <br>
 ## 👨‍💻 Expérience en ingénierie informatique
 
 **Ingénieur d'Infrastructure** @ [Cosium](https://www.cosium.com/) &mdash; alternance &mdash; _(Depuis Fev 2020)_ <br>
-Contribution à l'élaboration et à la mise en oeuvre de la stratégie SI de Cosium, éditeur logiciel, fournisseur de services IT et hébergeur cloud.
+Contribution à l'élaboration et à la mise en oeuvre de la stratégie SI de Cosium (éditeur logiciel, fournisseur de services IT et hébergeur cloud).
   * Administration réseau de l'[AS199441](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS199441&type=aut-num)
     * Configuration, gestion et évaluation des éléments de réseau multiprotocole pour assurer des communications efficaces de bout en bout
   * Ingénierie de production environnement Java
     * Conception et construction de l'architecture fonctionnelle et applicative en relation avec les parties prenantes (SI et métiers)
     * Assurance du respect des SLA
   * Architecture et administration de l'hébergement en cloud privé
-    * Assurance de la conformité aux normes, notament HDS (Hébergement de Données de Santé), ISO27001 et RGPD
+    * Assurance de la conformité aux normes, notamment HDS (Hébergement de Données de Santé), ISO27001 et RGPD
     * Conception, gestion et cartographie d'un parc multi-datacenters
   * **_Technologies utilisées :_** Linux, Juniper, Python, PostgreSQL, Ansible, Apache Tomcat, JVM, HAProxy, etcd, LXD, Docker, ZFS, Zabbix...
   <br><br>

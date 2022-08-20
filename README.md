@@ -10,12 +10,17 @@ _IT Systems Architect based in Paris, France_ <br>
 ## 👨‍💻 Engineering Experience
 
 **Infrastructure Engineer** @ [Cosium](https://www.cosium.com/cosium-software/) &mdash; apprenticeship &mdash; _(Since Feb 2020)_ <br>
-.
-  * .
-  * .
-  * .
-  * **_Technologies used:_** Linux, Juniper, Python, PostgreSQL, Ansible, Apache Tomcat, JVM, HAProxy, etcd, LXD, Docker, ZFS, Zabbix...
-  <br><br>
+Contribution to the elaboration and implementation of Cosium's IT strategy (software editor, IT services provider, cloud host).
+  * [AS199441](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS199441&type=aut-num) network administration
+    * Multiprotocol network items configuration, management, and evaluation to ensure end-to-end efficient communications
+  * Java environement production engineering
+    * Fonctionnal and applicative architecture conception and build, collaborating with stakeholders (IT and business)   
+    * Ensuring SLAs
+  * Private cloud hosting architecture and administration
+    * Standards enforcement in particular HDS (Health Data Hosting), ISO27001 and GDPR
+    * Multi datacenter IT infrastructure conception, management and cartography
+    * **_Technologies used:_** Linux, Juniper, Python, PostgreSQL, Ansible, Apache Tomcat, JVM, HAProxy, etcd, LXD, Docker, ZFS, Zabbix...
+    <br><br>
 
 _The following projects were executed within the scope of my studies 👨‍🎓 ._
 <br><br>
