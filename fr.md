@@ -14,7 +14,7 @@ _Architecte Systèmes d'Information basé à Paris_ <br>
   * .
   * .
   * .
-  * **_Technologies utilisées :_** Linux, Python, PostgreSQL, Ansible, Apache Tomcat, JVM, HAProxy, etcd, Juniper, LXD, Docker, ZFS, Zabbix...
+  * **_Technologies utilisées :_** Linux, Juniper, Python, PostgreSQL, Ansible, Apache Tomcat, JVM, HAProxy, etcd, LXD, Docker, ZFS, Zabbix...
   <br><br>
 
 _Les projets suivants ont été réalisés dans le cadre de mes études 👨‍🎓 ._
