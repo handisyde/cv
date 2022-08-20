@@ -19,6 +19,7 @@ Contribution à l'élaboration et à la mise en oeuvre de la stratégie SI de Co
   * Architecture et administration de l'hébergement en cloud privé
     * Assurance de la conformité aux normes, notamment HDS (Hébergement de Données de Santé), ISO27001 et RGPD
     * Conception, gestion et cartographie d'un parc multi-datacenters
+    * Support niveau 2 et 3
   * **_Technologies utilisées :_** Linux, Juniper, Python, PostgreSQL, Ansible, Apache Tomcat, JVM, HAProxy, etcd, LXD, Docker, ZFS, Zabbix...
   <br><br>
 

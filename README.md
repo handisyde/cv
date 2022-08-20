@@ -19,8 +19,9 @@ Contribution to the elaboration and implementation of Cosium's IT strategy (soft
   * Private cloud hosting architecture and administration
     * Standards enforcement in especially HDS (Health Data Hosting), ISO27001 and GDPR
     * Multi datacenter IT infrastructure conception, management and cartography
-    * **_Technologies used:_** Linux, Juniper, Python, PostgreSQL, Ansible, Apache Tomcat, JVM, HAProxy, etcd, LXD, Docker, ZFS, Zabbix...
-    <br><br>
+    * Support Levels 2 & 3
+  * **_Technologies used:_** Linux, Juniper, Python, PostgreSQL, Ansible, Apache Tomcat, JVM, HAProxy, etcd, LXD, Docker, ZFS, Zabbix...
+  <br><br>
 
 _The following projects were executed within the scope of my studies 👨‍🎓 ._
 <br><br>
