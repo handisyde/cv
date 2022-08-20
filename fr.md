@@ -9,7 +9,7 @@ _Architecte Systèmes d'Information basé à Paris_ <br>
 
 ## 👨‍💻 Expériences en ingénierie informatique
 
-_👨‍🎓 Les projets suivants ont été réalisés dans le cadre de mes études._
+_Les projets suivants ont été réalisés dans le cadre de mes études 👨‍🎓 ._
 
 **MalAware** @ [intech](https://www.intechinfo.fr/) &mdash; équipe de 5 &mdash; _(Sep 2019 - Fev 2020)_<br>
 Entrainement à la cybersécurité par des scénarios de type CTF.
