@@ -1,6 +1,6 @@
 # Paul Mercier-Handisyde
 
-_Architecte SI basé à Paris_ <br>
+_Architecte Systèmes d'Information basé à Paris_ <br>
 
 [🇬🇧 English version](https://cv.handisyde.com/) <br>
 
