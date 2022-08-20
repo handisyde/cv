@@ -4,7 +4,7 @@ _Architecte Systèmes d'Information basé à Paris_ <br>
 
 [🇬🇧 English version](https://cv.handisyde.com/) <br>
 
-[📧 Email](mailto:hello@handisyde.com) / [LinkedIn](https://www.linkedin.com/in/handisyde/)
+[📧 Email](mailto:hello@handisyde.com) / [🤝 LinkedIn](https://www.linkedin.com/in/handisyde/)
 <br><br>
 
 ## 👨‍💻 Expérience en ingénierie informatique
