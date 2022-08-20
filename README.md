@@ -4,7 +4,7 @@ _IT Systems Architect based in Paris, France_ <br>
 
 [🇫🇷 Version française](https://cv.handisyde.com/fr) <br>
 
-[Email](mailto:hello@handisyde.com) / [LinkedIn](https://www.linkedin.com/in/handisyde/)
+[📧 Email](mailto:hello@handisyde.com) / [🤝 LinkedIn](https://www.linkedin.com/in/handisyde/)
 <br><br>
 
 ## 👨‍💻 Engineering Experience
