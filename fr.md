@@ -9,7 +9,32 @@ _Architecte Systèmes d'Information basé à Paris_ <br>
 
 ## 👨‍💻 Expériences en ingénierie informatique
 
-<br><br>
+
+
+_👨‍🎓 Les projets suivants ont été réalisés dans le cadre de mes études._
+
+**MalAware** @ [intech](https://www.intechinfo.fr/) &mdash; équipe de 5 &mdash; _(Sep 2019 - Fev 2020)_<br>
+Entrainement à la cybersécurité par des scénarios de type CTF.
+   * Mise en place et utilisation de la stack [Airbus CyberRange](https://airbus-cyber-security.com/fr/produits-services/prevenir/cyberrange/)
+   * Sensibilisation (particuliers et entreprises) aux risques cyber
+   * Déploiement d'un SOC (Security Operations Center)et gestion de crise
+   * **_Technologies utilisées :_** Airbus CyberRange, Python, Ethical Hacking.
+   <br><br>
+
+**Kora La** @ [intech](https://www.intechinfo.fr/) &mdash; chef de projet, équipe de 3 &mdash; _(Mar 2019 - Juil 2019)_<br>
+Architecture, mise en place de l'infrastructure et des couches logicielles basses sur la nouvelle stack serveur d'Intech.
+   * Conception d'un système d'information
+   * Mise en place d'une infrastructure redondante et hautement disponible
+   * Déploiement d'un cloud privé sécurisé
+   * **_Technologies utilisées :_** HPE3PAR, ESXi, vCenter, VIC, Commutateurs réseau (Cisco/HP).
+   <br><br>
+
+**Skylab** @ [Air ESIEA](https://www.esiea.fr/association/air-2-esiea-ivry-sur-seine/) &mdash; chef de projet, équipe de 4 &mdash; _(Sep 2018 - Fev 2019)_<br>
+Mise en place d'un SI open-source pour l'association Air ESIEA.
+   * Mise en place et administration d'une infrastructure Linux
+   * Automatisation de tâches d'administration systèmes
+   * **_Technologies utilisées :_** ArchLinux, Apache, Nginx, BIND9, GitLab, Postfix/Dovecot, SMB, NextCloud, BorgBackup, MariaDB, Python, Bash.
+   <br><br>
 
 ## 💬 Langues
 
