@@ -45,19 +45,19 @@ Mise en place d'un SI open-source pour l'association Air ESIEA.
 
 **Expert en Ingénierie des Systèmes d’Information**<br>
 Diplôme inscrit au RNCP niveau 7<br>
-[Intech, groupe ESIEA](https://www.intechinfo.fr/) - Ivry-sur-Seine _(2017 - 2022)_ <br>
+[Intech, groupe ESIEA](https://www.intechinfo.fr/) &mdash; Ivry-sur-Seine _(2017 - 2022)_ <br>
 
 **Licence Lettres Modernes**<br>
 Mineure Lettres et Arts<br>
-[Université Jean-Jaurès](https://www.univ-tlse2.fr/accueil/formation-insertion/licence-lettres-modernes) - Toulouse _(2014 - 2017)_
+[Université Jean-Jaurès](https://www.univ-tlse2.fr/accueil/formation-insertion/licence-lettres-modernes) &mdash; Toulouse _(2014 - 2017)_
 
 **Hypokhâgne B/L**<br>
 Classe préparatoire aux grandes écoles Lettres et Sciences Sociales<br>
-[Lycée Saint-Sernin](https://saint-sernin.mon-ent-occitanie.fr/classes-preparatoires-bl-lss/presentation-de-la-filere-bl/) - Toulouse _(2012 - 2013)_
+[Lycée Saint-Sernin](https://saint-sernin.mon-ent-occitanie.fr/classes-preparatoires-bl-lss/presentation-de-la-filere-bl/) &mdash; Toulouse _(2012 - 2013)_
 
 **Baccalauréat Scientifique**<br>
 Spécialité Mathématiques - Mention Européenne Anglais - Mention Bien<br>
-[Lycée Las Cases](https://las-cases.mon-ent-occitanie.fr/) - Lavaur _(2012)_
+[Lycée Las Cases](https://las-cases.mon-ent-occitanie.fr/) &mdash; Lavaur _(2012)_
 <br><br>
 
 ## 👨‍🔧 Jobs étudiants

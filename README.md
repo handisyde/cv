@@ -45,19 +45,19 @@ Open-source IT system implementation for Air ESIEA association.
 
 **IT systems architect Master's degree**<br>
 IT engineering school<br>
-[Intech, ESIEA group](https://www.intechinfo.fr/) - Ivry-sur-Seine, France _(2017 - 2022)_ <br>
+[Intech, ESIEA group](https://www.intechinfo.fr/) &mdash; Ivry-sur-Seine, France _(2017 - 2022)_ <br>
 
 **Contemporary Literature Bachelor’s degree**<br>
 Literary and arts speciality<br>
-[Jean-Jaurès University](https://www.univ-tlse2.fr/accueil/formation-insertion/licence-lettres-modernes) - Toulouse, France _(2014 - 2017)_
+[Jean-Jaurès University](https://www.univ-tlse2.fr/accueil/formation-insertion/licence-lettres-modernes) &mdash; Toulouse, France _(2014 - 2017)_
 
 **Hypokhâgne B/L**<br>
 Preparatory classes for social sciences and literary studies<br>
-[Saint-Sernin High School](https://saint-sernin.mon-ent-occitanie.fr/classes-preparatoires-bl-lss/presentation-de-la-filere-bl/) - Toulouse, France _(2012 - 2013)_
+[Saint-Sernin High School](https://saint-sernin.mon-ent-occitanie.fr/classes-preparatoires-bl-lss/presentation-de-la-filere-bl/) &mdash; Toulouse, France _(2012 - 2013)_
 
-**High-School Diploma &mdash; French A-levels**<br>
+**High-School Diploma / French A-levels**<br>
 Mathematics Speciality &mdash; English Section<br>
-[Las Cases High School](https://las-cases.mon-ent-occitanie.fr/) - Lavaur, France _(2012)_
+[Las Cases High School](https://las-cases.mon-ent-occitanie.fr/) &mdash; Lavaur, France _(2012)_
 <br><br>
 
 ## 👨‍🔧 Student Jobs
