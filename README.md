@@ -21,7 +21,7 @@ _IT systems architect based in Paris, France_ <br>
 ## 👨‍🎓 Education
 
 **IT systems architect Master's degree**<br>
-Diplôme inscrit au RNCP niveau 7<br>
+IT engineering school<br>
 [Intech, ESIEA group](https://www.intechinfo.fr/) - Ivry-sur-Seine, France _(2017 - 2022)_ <br>
 
 **Contemporary Literature Bachelor’s degree**<br>
