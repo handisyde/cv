@@ -46,7 +46,7 @@ Open-source IT system implementation for Air ESIEA association.
 ## 💬 Languages
 
 🇫🇷 **French**: Native <br>
-🇬🇧 **English**: C2 &mdash; TOEIC score 985 &mdash; daily practice <br>
+🇬🇧 **English**: C2 &mdash; TOEIC score 970 &mdash; daily practice <br>
 🇩🇪 **German**: B1
 <br><br>
 
