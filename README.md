@@ -34,7 +34,7 @@ Cybersecurity training through CTF scenarios.
    <br><br>
 
 **Kora La** @ [intech](https://www.intechinfo.fr/) &mdash; project lead, team of 3 &mdash; _(Mar 2019 - Jul 2019)_<br>
-Conception and implementation of the infrastructure and lower logical layers of the new Intech server stack.
+Infrastructure and lower logical layers of the new Intech server stack onception and implementation
    * Conception of an IT system
    * Redundant and higly available architecture implementation
    * Secure private cloud deployement
