@@ -14,7 +14,7 @@ _IT Systems Architect based in Paris, France_ <br>
   * .
   * .
   * .
-  * **_Technologies used:_** .
+  * **_Technologies used:_** Linux, Python, PostgreSQL, Ansible, Apache Tomcat, JVM, HAProxy, etcd, Juniper, LXD, Docker, ZFS, Zabbix...
   <br><br>
 
 _The following projects were executed within the scope of my studies 👨‍🎓 ._
