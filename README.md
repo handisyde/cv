@@ -17,7 +17,7 @@ Contribution to the elaboration and implementation of Cosium's IT strategy (soft
     * Fonctionnal and applicative architecture conception and build, collaborating with stakeholders (IT and business)   
     * Ensuring SLAs
   * Private cloud hosting architecture and administration
-    * Standards enforcement in especially HDS (Health Data Hosting), ISO27001 and GDPR
+    * Standards enforcement especially HDS (Health Data Hosting), ISO27001 and GDPR
     * Multi datacenter IT infrastructure conception, management and cartography
     * Support Levels 2 & 3
   * **_Technologies used:_** Linux, Juniper, Python, PostgreSQL, Ansible, Apache Tomcat, JVM, HAProxy, etcd, LXD, Docker, ZFS, Zabbix...
