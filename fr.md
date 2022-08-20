@@ -9,8 +9,6 @@ _Architecte Systèmes d'Information basé à Paris_ <br>
 
 ## 👨‍💻 Expériences en ingénierie informatique
 
-
-
 _👨‍🎓 Les projets suivants ont été réalisés dans le cadre de mes études._
 
 **MalAware** @ [intech](https://www.intechinfo.fr/) &mdash; équipe de 5 &mdash; _(Sep 2019 - Fev 2020)_<br>
@@ -60,5 +58,4 @@ Classe préparatoire aux grandes écoles Lettres et Sciences Sociales<br>
 **Baccalauréat Scientifique**<br>
 Spécialité Mathématiques - Mention Européenne Anglais - Mention Bien<br>
 [Lycée Las Cases](https://las-cases.mon-ent-occitanie.fr/) - Lavaur _(2012)_
-
 <br><br>

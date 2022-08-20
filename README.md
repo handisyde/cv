@@ -34,8 +34,6 @@ Open-source IT system implementation for Air ESIEA association.
    * **_Technologies used:_** ArchLinux, Apache, Nginx, BIND9, GitLab, Postfix/Dovecot, SMB, NextCloud, BorgBackup, MariaDB, Python, Bash.
    <br><br>
 
-<br><br>
-
 ## 💬 Languages
 
 🇫🇷 **French**: Native <br>
@@ -60,5 +58,4 @@ Preparatory classes for social sciences and literary studies<br>
 **High-School Diploma &mdash; French A-levels**<br>
 Mathematics Speciality &mdash; English Section<br>
 [Las Cases High School](https://las-cases.mon-ent-occitanie.fr/) - Lavaur, France _(2012)_
-
 <br><br>
