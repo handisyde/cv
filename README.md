@@ -9,7 +9,7 @@ _IT Systems Architect based in Paris, France_ <br>
 
 ## 👨‍💻 Engineering Experience
 
-**Infrastructure Engineer** @ [Cosium](https://www.cosium.com/cosium-software/) &mdash; intern, apprentice &mdash; _(Since Feb 2020)_ <br>
+**Infrastructure Engineer** @ [Cosium](https://www.cosium.com/cosium-software/) &mdash; apprenticeship &mdash; _(Since Feb 2020)_ <br>
 .
   * .
   * .
