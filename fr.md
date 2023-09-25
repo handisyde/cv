@@ -9,7 +9,7 @@ _Architecte Systèmes d'Information basé à Paris_ <br>
 
 ## 👨‍💻 Expérience en ingénierie informatique
 
-**Ingénieur d'Infrastructure** @ [Cosium](https://www.cosium.com/) &mdash; alternance &mdash; _(Depuis Fev 2020)_ <br>
+**Ingénieur d'Infrastructure** @ [Cosium](https://www.cosium.com/) _(Depuis Fev 2020)_ <br>
 Contribution à l'élaboration et à la mise en oeuvre de la stratégie SI de Cosium (éditeur logiciel, fournisseur de services IT et hébergeur cloud).
   * Administration réseau de l'[AS199441](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS199441&type=aut-num)
     * Configuration, gestion et évaluation des éléments de réseau multiprotocole pour assurer des communications efficaces de bout en bout
