@@ -9,7 +9,7 @@ _IT Systems Architect based in Paris, France_ <br>
 
 ## 👨‍💻 Engineering Experience
 
-**Infrastructure Engineer** @ [Cosium](https://www.cosium.com/cosium-software/) &mdash; apprenticeship &mdash; _(Since Feb 2020)_ <br>
+**Infrastructure Engineer** @ [Cosium](https://www.cosium.com/cosium-software/) _(Since Feb 2020)_ <br>
 Contribution to the elaboration and implementation of Cosium's IT strategy (software editor, IT services provider, cloud host).
   * [AS199441](https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS199441&type=aut-num) network administration
     * Multiprotocol network items configuration, management, and evaluation to ensure end-to-end efficient communications
