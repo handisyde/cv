@@ -20,7 +20,7 @@ Contribution à l'élaboration et à la mise en oeuvre de la stratégie SI de Co
     * Assurance de la conformité aux normes, notamment HDS (Hébergement de Données de Santé), ISO27001 et RGPD
     * Conception, gestion et cartographie d'un parc multi-datacenters
     * Support niveau 2 et 3
-  * **_Technologies utilisées :_** Linux, Juniper, Python, PostgreSQL, Patroni, Ansible, Apache Tomcat, JVM, HAProxy, etcd, LXD, Docker, ZFS, Zabbix...
+  * **_Technologies utilisées :_** Linux, Juniper, Python, PostgreSQL, PowerDNS, dnsdist, Patroni, Ansible, Apache Tomcat, JVM, HAProxy, etcd, LXD, Docker, ZFS, Zabbix...
   <br><br>
 
 _Les projets suivants ont été réalisés dans le cadre de mes études 👨‍🎓 ._
